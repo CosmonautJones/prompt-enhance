@@ -47,7 +47,7 @@ agent --version
 ## Quick Start (one command)
 
 ```bash
-git clone https://github.com/tjones-gss/prompt-enhance.git
+git clone https://github.com/CosmonautJones/prompt-enhance.git
 cd prompt-enhance
 ```
 
